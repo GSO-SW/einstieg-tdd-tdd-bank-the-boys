@@ -7,3 +7,13 @@ TODO:
 - Bitte überprüfen:
 - Finden Sie Fehler in der Implementierung?
 - Finden Sie "Verbesserungen" in den UserStories?
+
+##Antworten:dart:
+======================================
+1. User Stories sind anforderungen aus der Perspektive des Nutzers
+2. Das Muster bei User Stories ist meist das zuerst der Job genannt wird dannn was genau sie machen möchten und danach der grund
+3. Diese Definition of Done ist eine Definition, die aussagt, unter welchen Bedingungen eine Aufgabe erledigt ist.
+
+4. UnitTests sind eine Methode zum Testen ob einzelne Teile des Codes funktionieren.
+5.
+6.
